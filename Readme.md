@@ -10,7 +10,7 @@
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/Portafolio_Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://portafolio-fnam.notion.site/Hola-soy-Freddy-Arreaga-M-aecbaf7ccf8c4fe6be61e1687b17d696?pvs=4)
+[![portfolio](https://img.shields.io/badge/Portafolio_Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://portfoliodev.notion.site/Hola-soy-Freddy-Arreaga-M-aecbaf7ccf8c4fe6be61e1687b17d696?pvs=4)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fnam/)
 
