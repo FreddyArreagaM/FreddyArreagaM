@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m @FreddyArreagaM<br>👀 I’m interested in Work as a remote developer.<br>🌱 I’m currently taking a Full Stack Core Certification in Digital Nao.<br>💞️ I’m looking to collaborate on Remote projects.<br>📫 How to reach me fnam_1999@outlook.com<br>😄 Pronouns: he/him<br>⚡ Fun fact: I am passionate about technology and I am always looking for new ways to learn and improve my skills.</p>
+<p align="left">👋 Hi, I’m @FreddyArreagaM<br>👀 I’m interested in working as a remote developer.<br>🌱 I have obtained my Full Stack Core Certification from Digital Nao.<br>👨🏻‍💻 I’m looking to collaborate on remote projects.<br>📫 How to reach me: fnam_1999@outlook.com<br>😄 Pronouns: he/him<br>⚡ Fun fact: I am passionate about technology and I am always looking for new ways to learn and improve my skills.</p>
 
 ###
 
