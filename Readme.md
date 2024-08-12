@@ -6,6 +6,12 @@
 
 ###
 
+<h3 align="left">🚀 Proyectos Destacados</h3>
+ <p align="left"> 📚 Sistema de Gestión Documental Automatizada para Unidades Educativas. <br>
+🩺 Detección de enfermedades pulmonares: Sistema basado en radiografías de tórax. <br>
+ 📦 Desarrollo de sistema web dirigido a la gestión de bodega de Distribuidoras.</p>
+
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
